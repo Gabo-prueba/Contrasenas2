@@ -1,5 +1,3 @@
-# Contrasenas2
-# Standard keys
 7b296f353c6b
 3fa7217ec575
 3fa7217ec575
@@ -16,8 +14,6 @@ e820f1df470c
 be17915e5d42
 e820f1df470e
 6b0e0a06d00f
-
-# B caremonda
 253cf91a3474
 951e9bb8cfdf
 63a91667ab6b
